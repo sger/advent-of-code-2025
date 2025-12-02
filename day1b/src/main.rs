@@ -3,14 +3,12 @@ use std::fs;
 fn count_zero_crossings(position: i32, direction: char, steps: i32) -> i32 {
     if direction == 'R' {
         (position + steps) / 100
+    } else if position == 0 {
+        steps / 100
+    } else if steps >= position {
+        1 + (steps - position) / 100
     } else {
-        if position == 0 {
-            steps / 100
-        } else if steps >= position {
-            1 + (steps - position) / 100
-        } else {
-            0
-        }
+        0
     }
 }
 
