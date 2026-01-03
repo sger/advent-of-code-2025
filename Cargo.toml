@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "aoc_utils",
+  "scripts/scaffold_day",
+]
+resolver = "2"
