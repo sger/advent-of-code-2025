@@ -1,5 +1,7 @@
 [workspace]
 members = [
+  "day01/part_b",
+  "day01/part_a",
   "aoc_utils",
   "scripts/scaffold_day",
 ]
