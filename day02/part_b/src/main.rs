@@ -1,7 +1,7 @@
 use aoc_utils::read_input;
 
 fn main() {
-    let input = read_input("../inputs/day02/input_b.txt");
+    let input = read_input("../inputs/day02/input.txt");
     let answer = solve(&input);
     println!("{answer}");
 }
