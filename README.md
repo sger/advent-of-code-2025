@@ -11,9 +11,9 @@ Nothing fancy here just clean, readable solutions. Each day is split into **Part
 | Day | Part A | Part B |
 | --- | ------ | ------ |
 | 01  | ✅      | ✅      |
-| 02  | ✅      | ⬜      |
-| 03  | ⬜      | ⬜      |
-| 04  | ⬜      | ⬜      |
+| 02  | ✅      | ✅      |
+| 03  | ✅      | ✅      |
+| 04  | ✅      | ✅      |
 | 05  | ⬜      | ⬜      |
 | 06  | ⬜      | ⬜      |
 | 07  | ⬜      | ⬜      |
